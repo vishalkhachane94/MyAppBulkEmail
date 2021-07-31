@@ -1,0 +1,7 @@
+C:\BulkEmails\WebApplication64\WebApplication64\bin\WebApplication64.dll.config
+C:\BulkEmails\WebApplication64\WebApplication64\bin\WebApplication64.dll
+C:\BulkEmails\WebApplication64\WebApplication64\bin\WebApplication64.pdb
+C:\BulkEmails\WebApplication64\WebApplication64\obj\Debug\BulkEmailApp.csproj.AssemblyReference.cache
+C:\BulkEmails\WebApplication64\WebApplication64\obj\Debug\BulkEmailApp.csproj.CoreCompileInputs.cache
+C:\BulkEmails\WebApplication64\WebApplication64\obj\Debug\WebApplication64.dll
+C:\BulkEmails\WebApplication64\WebApplication64\obj\Debug\WebApplication64.pdb
